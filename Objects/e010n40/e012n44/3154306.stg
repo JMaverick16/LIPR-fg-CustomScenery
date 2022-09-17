@@ -1,0 +1,35 @@
+OBJECT_SHARED Models/Airport/ndb.ac 12.506 44.079028 14.23 180
+OBJECT_SHARED Models/Airport/marker.ac 12.632472 44.008722 11.14 180
+OBJECT_SHARED Models/Airport/localizer.xml 12.592667 44.030917 5.1 51.16
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 12.6579446 44.0078443 -0.02 153.27
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 12.6575712 44.0078384 0 73.22
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 12.616639 44.015167 8.88 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 12.573886 44.074117 -1.97 0
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml 12.621 44.016889 6.68 51.16
+
+OBJECT_SHARED Models/Airport/BAK12.xml 12.59902909 44.02737966 3.3078 52.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/BAK12.xml 12.62483340 44.01298779 7.7591 52.1 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62345231 44.01091818 9.3641 250.8 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62494108 44.01041411 9.2177 344.0 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62543895 44.01010539 9.2989 347.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62359250 44.00999398 9.9531 270.1 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62436937 44.00917493 10.3005 16.9 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62436937 44.00917493 10.3005 16.9 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62320533 44.00904816 10.8313 320.7 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62199900 44.01202697 9.1621 359.7 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.61996378 44.01204878 9.8581 290.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62096188 44.01156142 9.8291 10.7 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.61973689 44.01124081 10.4977 320.3 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.62045711 44.01291192 9.1583 170.7 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.61261941 44.01646989 8.9163 321.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.61165670 44.01621701 9.2713 0.9 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.61078912 44.01709872 8.6789 319.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60984570 44.01777361 8.2188 268.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60824911 44.01770444 8.4529 65.2 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60660670 44.01850984 7.8399 219.6 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60517123 44.01968833 6.8261 32.8 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60454676 44.02108205 5.7309 169.6 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60403647 44.02170756 5.2683 284.0 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60325010 44.02067672 6.1246 340.5 0.0 -0.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 12.60196951 44.02225433 5.0234 164.0 0.0 -0.0
+OBJECT_SHARED Models/Static/EDAK_TOWER.xml 12.60858504 44.01885931 6.3280 320.0 0.0 -0.0
